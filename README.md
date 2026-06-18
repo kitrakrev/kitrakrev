@@ -12,6 +12,17 @@
 ✉️ &nbsp;Reach me at karthikraja2k1@gmail.com
 Know more about me at <a href="https://kitrakrev.github.io">ProfilePage</a>
 
+### 🚀 &nbsp;Featured Work
+
+| Project | What it is |
+|---|---|
+| [**Gui_Agent**](https://github.com/kitrakrev/Gui_Agent) | GUI agent for autonomous web-task completion (MS AI capstone research) |
+| [**event-capture**](https://github.com/kitrakrev/event-capture) | Browser extension + backend that captures event trajectories to drive/evaluate web agents |
+| [**kernel-dev**](https://github.com/kitrakrev/kernel-dev) | GPU kernel experiments — understanding the hardware running our models |
+| [**helion_optimizations**](https://github.com/kitrakrev/helion_optimizations) | Helion GPU kernel optimizations (Triton/CUDA) |
+| [**tunix**](https://github.com/kitrakrev/tunix) | Contributions to Google Tunix — a lightweight LLM post-training library |
+| [**teamhq**](https://github.com/kitrakrev/teamhq) | Multi-agent command center for autonomous code change & migration |
+
 <!-- Tech Stack -->
 ### 💻Tech Stack 
   <br>

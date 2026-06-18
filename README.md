@@ -10,7 +10,7 @@
 📄 &nbsp;SemEval 2024 Best Paper (Top 5 globally)\
 🎓 &nbsp;MS in AI, UC Santa Cruz (3.9 GPA)\
 ✉️ &nbsp;Reach me at karthikraja2k1@gmail.com
-Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
+Know more about me at <a href="https://kitrakrev.github.io">ProfilePage</a>
 
 <!-- Tech Stack -->
 ### 💻Tech Stack 
@@ -45,7 +45,7 @@ Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/kitrakrev/count.svg)
+   ![Profile Views](https://komarev.com/ghpvc/?username=kitrakrev&label=Profile%20Views&color=0e75b6&style=flat)
         
 </div>
 

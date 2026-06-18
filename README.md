@@ -45,15 +45,15 @@ Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{kitrakrev}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/kitrakrev/count.svg)
         
 </div>
 
 <div align="center">
 
 ## Connect with me:
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/Kitrak_rev) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kitrak-rev/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/kitrakrev) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kitrakrev/)
 
  
   

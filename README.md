@@ -4,9 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently employed on a full-time basis at a financial institution.\
-🌱 &nbsp;Learning LLM and their evaluators(NLP)\
-✉️ &nbsp;You can shoot me an email at karthikraja2k1@gmail.com!
+🔧 &nbsp;AI/ML Engineer building multi-agent systems and GPU inference optimization\
+🎤 &nbsp;Demonstrated Helion GPU kernels at NVIDIA GTC 2026\
+🔬 &nbsp;Contributing to Google Tunix, LangChain, and Ivy\
+📄 &nbsp;SemEval 2024 Best Paper (Top 5 globally)\
+🎓 &nbsp;MS in AI, UC Santa Cruz (3.9 GPA)\
+✉️ &nbsp;Reach me at karthikraja2k1@gmail.com
 Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
 
 <!-- Tech Stack -->

@@ -28,9 +28,9 @@ Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
 ### 📊 &nbsp;GitHub Stats
 <!--
 <p style="display:flex;">
-<img  height="200em" alt="Karthik Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kitrak-rev&show_icons=true&hide_border=false&theme=tokyonight" /> 
+<img  height="200em" alt="Karthik Raja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kitrakrev&show_icons=true&hide_border=false&theme=tokyonight" /> 
 &nbsp;
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitrak-rev&theme=tokyonight&hide_border=false"/>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitrakrev&theme=tokyonight&hide_border=false"/>
 </p> -->
 
 <p> 
@@ -39,13 +39,13 @@ Know more about me at <a href="kitrak-rev.github.io">ProfilePage</a>
 
 
  <p align="center" >
- <a href="https://github.com/kitrak-rev">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kitrak-rev&layout=compact&langs_count=8&theme=algolia"/>
+ <a href="https://github.com/kitrakrev">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kitrakrev&layout=compact&langs_count=8&theme=algolia"/>
 </a></p>
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{kitrak-rev}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{kitrakrev}/count.svg)
         
 </div>
 

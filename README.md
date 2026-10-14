@@ -7,7 +7,7 @@
 🔧 &nbsp;AI/ML Engineer building multi-agent systems and GPU inference optimization\
 🎤 &nbsp;Demonstrated Helion GPU kernels at NVIDIA GTC 2026\
 🔬 &nbsp;Merged PRs in Google Tunix, LangChain, and Ivy\
-📄 &nbsp;SemEval 2025 Task 4 Winner — Best Paper Award (hallucination detection)\
+📄 &nbsp;Co-author, SemEval-2025 Task 3 Best System Paper (hallucination detection)\
 🎓 &nbsp;MS in AI (NLP), UC Santa Cruz (3.9 GPA)\
 ✉️ &nbsp;Reach me at karthikraja2k1@gmail.com
 Know more about me at <a href="https://kitrakrev.github.io">ProfilePage</a>

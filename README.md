@@ -6,7 +6,7 @@
 
 🔧 &nbsp;AI/ML Engineer building multi-agent systems and GPU inference optimization\
 🎤 &nbsp;Demonstrated Helion GPU kernels at NVIDIA GTC 2026\
-🔬 &nbsp;Contributing to Google Tunix, LangChain, and Ivy\
+🔬 &nbsp;Merged PRs in Google Tunix, LangChain, and Ivy\
 📄 &nbsp;SemEval 2025 Task 4 Winner — Best Paper Award (hallucination detection)\
 🎓 &nbsp;MS in AI, UC Santa Cruz (3.9 GPA)\
 ✉️ &nbsp;Reach me at karthikraja2k1@gmail.com
@@ -14,14 +14,18 @@ Know more about me at <a href="https://kitrakrev.github.io">ProfilePage</a>
 
 ### 🚀 &nbsp;Featured Work
 
-| Project | What it is |
-|---|---|
-| [**Gui_Agent**](https://github.com/kitrakrev/Gui_Agent) | GUI agent for autonomous web-task completion (MS AI capstone research) |
-| [**event-capture**](https://github.com/kitrakrev/event-capture) | Browser extension + backend that captures event trajectories to drive/evaluate web agents |
-| [**kernel-dev**](https://github.com/kitrakrev/kernel-dev) | GPU kernel experiments — understanding the hardware running our models |
-| [**helion_optimizations**](https://github.com/kitrakrev/helion_optimizations) | Helion GPU kernel optimizations (Triton/CUDA) |
-| [**tunix**](https://github.com/kitrakrev/tunix) | Contributions to Google Tunix — a lightweight LLM post-training library |
-| [**teamhq**](https://github.com/kitrakrev/teamhq) | Multi-agent command center for autonomous code change & migration |
+| Project | What it is | Page |
+|---|---|---|
+| [**Morph**](https://github.com/kitrakrev/morph) | Self-evolving harness: LLM agents compose and evolve skills for robot fleets whose bodies change (MuJoCo) | [view](https://kitrakrev.github.io/morph/) |
+| [**Smart Router**](https://github.com/kitrakrev/smart-router-multi-modal) | Multi-modal LLM router — picks the cheapest capable model in ~15 ms with guardrails and budgets | [view](https://kitrakrev.github.io/smart-router-multi-modal/) |
+| [**kernel-dev**](https://github.com/kitrakrev/kernel-dev) | Kernels across MLX, CUDA, Triton and JAX/TPU with roofline analysis | [view](https://kitrakrev.github.io/kernel-dev/) |
+| [**helion_optimizations**](https://github.com/kitrakrev/helion_optimizations) | Helion DSL kernels for the GPU MODE Helion Kernel Challenge (B200) | [view](https://kitrakrev.github.io/helion_optimizations/) |
+| [**StaffingGym**](https://github.com/kitrakrev/rl-recruits) | RL environment: an LLM agent runs a staffing agency over a simulated 52-week year (OpenEnv Hackathon) | [view](https://kitrakrev.github.io/rl-recruits/) |
+| [**TeamHQ**](https://github.com/kitrakrev/teamhq) | Engineering org command center for autonomous code change (Nozomio Hackathon) | [view](https://kitrakrev.github.io/teamhq/) |
+| [**LLM Evals**](https://github.com/kitrakrev/mulit-modal-llm-evals) | Multi-model evaluation with RAG, voice, tracing and regression detection | [view](https://kitrakrev.github.io/mulit-modal-llm-evals/) |
+| [**Gui_Agent**](https://github.com/kitrakrev/Gui_Agent) | GUI agent for autonomous web-task completion (capstone research) | — |
+| [**event-capture**](https://github.com/kitrakrev/event-capture) | Captures browser event trajectories to drive and evaluate web agents | — |
+| [**tunix**](https://github.com/kitrakrev/tunix) | Google Tunix (JAX post-training) — merged PR #1552 | — |
 
 <!-- Tech Stack -->
 ### 💻Tech Stack 

@@ -6,6 +6,7 @@
 
 🔧 &nbsp;AI/ML Engineer building multi-agent systems and GPU inference optimization\
 🎤 &nbsp;Demonstrated Helion GPU kernels at NVIDIA GTC 2026\
+🏆 &nbsp;GPU MODE Helion kernel contest (B200): [1st](https://www.gpumode.com/leaderboard/770) & [2nd](https://www.gpumode.com/leaderboard/767), plus 4th & 6th\
 🔬 &nbsp;Merged PRs in Google Tunix, LangChain, and Ivy\
 📄 &nbsp;Co-author, SemEval-2025 Task 3 Best System Paper (hallucination detection)\
 🎓 &nbsp;MS in AI (NLP), UC Santa Cruz (3.9 GPA)\
